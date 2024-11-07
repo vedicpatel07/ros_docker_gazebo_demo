@@ -1,7 +1,7 @@
 version: '3'
 services:
   ros2_dev:
-    image: osrf/ros:iron-desktop-full   # Changed to desktop-full
+    image: osrf/ros:iron-desktop-full  
     container_name: ros2_iron_dev
     environment:
       - DISPLAY=host.docker.internal:0.0
