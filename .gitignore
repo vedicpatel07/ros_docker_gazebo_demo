@@ -1,0 +1,21 @@
+# ROS 2 build and install
+build/
+install/
+log/
+
+# Colcon files
+.colcon/
+.colcon_cd_root
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
