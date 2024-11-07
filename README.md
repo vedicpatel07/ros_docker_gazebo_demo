@@ -109,12 +109,6 @@ ros2_iron_ws/
 - The simulation uses Gazebo Classic
 - The robot can be controlled using the `/cmd_vel` topic
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-Feel free to open issues or submit pull requests with improvements or bug fixes.
-
 ## Acknowledgments
 - ROS 2 Iron Documentation
 - Gazebo Classic Documentation
